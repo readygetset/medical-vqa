@@ -1,13 +1,3 @@
-"""
-Utility functions:
--> pad questions
--> parse tensorboard event logs and save into csvs
--> generate statistics of length of questions
--> plot training and validation statistics
--> plot vqa accuracy
--> plot all accuracies
--> predict answers given an image and questions in that image
-"""
 import collections
 import json
 import os
