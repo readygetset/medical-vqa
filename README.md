@@ -31,9 +31,10 @@ We use three widely known datasets in medical VQA:
 
 ## Results
 ![result](assets/result.png)
-Figure 1: Example of result output.
+_Figure 1: Example of result output._
 ![result](assets/performance.png)
-Figure 2: Performance graph showcasing model comparison.
+_Figure 2: Performance graph showcasing model comparison._
+
 1. **Validation Accuracy Trends**
 - **CLIP + BERT** and **CLIP + BioBERT** showed slightly better performance in validation loss trends than the other combinations.
 
