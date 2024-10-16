@@ -36,18 +36,18 @@ _Figure 1: Example of result output._
 _Figure 2: Performance graph showcasing model comparison._
 
 1. **Validation Accuracy Trends**
-- **CLIP + BERT** and **CLIP + BioBERT** showed slightly better performance in validation loss trends than the other combinations.
+  - **CLIP + BERT** and **CLIP + BioBERT** showed slightly better performance in validation loss trends than the other combinations.
 
 2. **Top Performing Model**
-- CLIP + BioBERT achieved the best performance with 60% accuracy.
-- Increasing the number of epochs could potentially improve performance further.
+  - **CLIP + BioBERT** achieved the best performance with **60% accuracy**.
+  - Increasing the number of epochs could potentially improve performance further.
 
 3. **Comparison of Other Models**
-- **MedCLIP + BERT** and **CLIP + BERT** performed similarly, with around 50% accuracy.
-- MedCLIP + BioBERT performed slightly worse compared to other combinations.
+  - **MedCLIP + BERT** and **CLIP + BERT** performed similarly, with around **50% accuracy**.
+  - **MedCLIP + BioBERT** performed slightly worse compared to other combinations.
 
 4. **Answer Distribution Analysis**
-- The model training focused on the top 1,000 most frequent answers from a pool of 2,044 unique answers.
+  - The model training focused on the top **1,000 most frequent answers** from a pool of **2,044 unique answers**.
   
 ## Conclusion
 - **Pretrained models** play a crucial role in improving the performance of Medical VQA systems.
