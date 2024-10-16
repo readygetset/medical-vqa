@@ -4,10 +4,10 @@ This project explores the **performance of various pretrained models** in the Me
 
 ## Task
 The goal is to build a VQA system that generates answers based on medical images and associated questions. We experiment with the following configurations:
-**1. CLIP Image Encoder + BERT Question Encoder
-2. CLIP Image Encoder + BioClinicalBERT Question Encoder
-3. MedCLIP Image Encoder + BERT Question Encoder
-4. MedCLIP Image Encoder + BioClinicalBERT Question Encoder**
+**1. CLIP Image Encoder + BERT Question Encoder**
+**2. CLIP Image Encoder + BioClinicalBERT Question Encoder**
+**3. MedCLIP Image Encoder + BERT Question Encoder**
+**4. MedCLIP Image Encoder + BioClinicalBERT Question Encoder**
 
 ## Framework
 ![pipeline](assets/pipeline.png)
