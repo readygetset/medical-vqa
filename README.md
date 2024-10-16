@@ -1,4 +1,4 @@
-# MedicalVQAMedical Visual Question Answering (VQA)
+# Medical Visual Question Answering (VQA)
 ## Overview
 This project explores the **performance of various pretrained models** in the Medical Visual Question Answering (VQA) task. We compare different **image encoders** and **question encoders** to evaluate their impact on system performance, using several widely adopted medical datasets.
 
