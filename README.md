@@ -10,6 +10,7 @@ The goal is to build a VQA system that generates answers based on medical images
 4. MedCLIP Image Encoder + BioClinicalBERT Question Encoder**
 
 ## Framework
+![pipeline](assets/pipeline.png)
 The system follows this workflow:
 1. **Question Embedding Generation**: Encodes the text question using the question encoder.
 2. **Image Embedding Generation**: Encodes the medical image using the image encoder.
@@ -29,6 +30,10 @@ We use three widely known datasets in medical VQA:
 - QA Pairs: 7K
 
 ## Results
+![result](assets/result.png)
+Figure 1: Example of result output.
+![result](assets/performance.png)
+Figure 2: Performance graph showcasing model comparison.
 1. **Validation Accuracy Trends**
 - **CLIP + BERT** and **CLIP + BioBERT** showed slightly better performance in validation loss trends than the other combinations.
 
