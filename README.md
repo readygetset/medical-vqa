@@ -20,14 +20,14 @@ The system follows this workflow:
 ## Datasets
 We use three widely known datasets in medical VQA:
 1. **VQA-Med-2019**
-- Images: 3K
-- QA Pairs: 6K
+  - Images: 3K
+  - QA Pairs: 6K
 2. **VQA-RAD**
-- Images: 315
-- QA Pairs: 3K
+  - Images: 315
+  - QA Pairs: 3K
 3. **SLAKE**
-- Images: 642
-- QA Pairs: 7K
+  - Images: 642
+  - QA Pairs: 7K
 
 ## Results
 ![result](assets/result.png)
